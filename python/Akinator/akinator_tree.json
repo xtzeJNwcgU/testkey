@@ -1,0 +1,13 @@
+{
+    "data": "apakah karaktermu menggunakan kacamata?",
+    "yes": {
+        "data": "Kim Jong-un",
+        "yes": null,
+        "no": null
+    },
+    "no": {
+        "data": "apakah karaktermu berasal dari planet krypton?",
+        "yes": null,
+        "no": null
+    }
+}
